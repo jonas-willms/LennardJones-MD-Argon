@@ -19,17 +19,3 @@ Open your terminal, navigate to the root directory of this repository (`ArgonMD/
 ```bash
 julia --project=. scripts/plot_phases.jl
 ```
-
-<<<<<<< HEAD:readme.txt
-(This will probably precompile for some time if run for the first time)
-=======================================================================
-
-(This will probably precompile for some time if run for the first time)
-
->>>>>>> df4dbfc827d58854aa73a8be1331cac3165b2bc7:readme.md
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
