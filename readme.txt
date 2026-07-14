@@ -21,4 +21,4 @@ Open your terminal, navigate to the root directory of this repository (`ArgonMD/
 ```bash
 julia --project=. scripts/plot_phases.jl
 ```
-(This will probably precompile for some time if run first time)
+(This will probably precompile for some time if run for the first time)
